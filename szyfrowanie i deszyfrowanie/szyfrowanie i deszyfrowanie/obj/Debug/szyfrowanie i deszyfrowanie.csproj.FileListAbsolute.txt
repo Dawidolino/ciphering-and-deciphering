@@ -1,0 +1,11 @@
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.csproj.AssemblyReference.cache
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.csproj.SuggestedBindingRedirects.cache
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie_i_deszyfrowanie.Properties.Resources.resources
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.csproj.GenerateResource.cache
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.csproj.CoreCompileInputs.cache
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\bin\Debug\szyfrowanie i deszyfrowanie.exe.config
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\bin\Debug\szyfrowanie i deszyfrowanie.exe
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\bin\Debug\szyfrowanie i deszyfrowanie.pdb
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie_i_deszyfrowanie.Form1.resources
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.exe
+F:\projekty\C#\szyfrowanie i deszyfrowanie\szyfrowanie i deszyfrowanie\obj\Debug\szyfrowanie i deszyfrowanie.pdb
